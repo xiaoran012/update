@@ -1,19 +1,19 @@
 # 完整检测统计日志
-# 生成时间: 20260330 05:45:41
-===== 检测开始: 20260330 04:37:07 =====
+# 生成时间: 20260406 05:47:40
+===== 检测开始: 20260406 04:36:36 =====
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
-远程订阅统计: 12206,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
+远程订阅统计: 12394,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
-远程订阅统计: 2603,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
+远程订阅统计: 2610,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
 脚本目录: /home/runner/work/update/update/assets/livesource/blacklist
-本地black文件行数: 33176
-初始总行数（远程+本地）: 47985
-分解#后行数: 48056
-去$后行数: 48056
-去重后行数: 45528
+本地black文件行数: 34015
+初始总行数（远程+本地）: 49019
+分解#后行数: 49092
+去$后行数: 49092
+去重后行数: 46591
 并发线程数: 30
-检测结果: 成功11508条, 失败34015条
+检测结果: 成功11801条, 失败34785条
 结果文件保存: /home/runner/work/update/update/assets/livesource/blacklist/whitelist_auto.txt, /home/runner/work/update/update/assets/livesource/blacklist/whitelist_auto_tv.txt, /home/runner/work/update/update/assets/livesource/blacklist/blacklist_auto.txt
-历史记录保存: /home/runner/work/update/update/assets/livesource/blacklist/history/blacklist/20260330_05_45_41_whitelist_auto.txt, /home/runner/work/update/update/assets/livesource/blacklist/history/blacklist/20260330_05_45_41_blacklist_auto.txt
-执行时间: 68分33秒 (开始: 20260330_04_37_07, 结束: 20260330_05_45_41)
-故障主机统计保存: /home/runner/work/update/update/assets/livesource/blacklist/blackhost/20260330_05_45_41_blackhost_count.txt
+历史记录保存: /home/runner/work/update/update/assets/livesource/blacklist/history/blacklist/20260406_05_47_40_whitelist_auto.txt, /home/runner/work/update/update/assets/livesource/blacklist/history/blacklist/20260406_05_47_40_blacklist_auto.txt
+执行时间: 71分3秒 (开始: 20260406_04_36_36, 结束: 20260406_05_47_40)
+故障主机统计保存: /home/runner/work/update/update/assets/livesource/blacklist/blackhost/20260406_05_47_40_blackhost_count.txt
