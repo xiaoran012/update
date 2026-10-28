@@ -4452,7 +4452,7 @@ http://182.150.23.74:808/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d339dcc3bbbbff63a26a144ba51c914&wsTime=1793217801
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=755f24108a9695adf64bac438e8ed585&wsTime=1793221429
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -10368,7 +10368,7 @@ http://173.208.234.146/live/lbchuangguandong.m3u8
 #EXTINF:-1 group-title="📽️纪·录·片",文物宝库
 http://60.4.28.229:8077/rtp/239.253.93.180:6437
 #EXTINF:-1 group-title="📽️纪·录·片",文物宝库
-https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5de28373363d92f797dfe809a647c28b&wsTime=1793217801
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=be80f03ed69b73ed91991ba1a837560f&wsTime=1793221429
 #EXTINF:-1 group-title="📽️纪·录·片",文物宝库
 https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=cbe5d33322a043d6d82f4f3e31cf5358&wsTime=1780279130
 #EXTINF:-1 group-title="📽️纪·录·片",文物宝库
@@ -13750,7 +13750,7 @@ http://113.98.11.46:3000/967093083
 #EXTINF:-1 group-title="🎭戏曲频道",梨园
 http://60.4.28.229:8077/rtp/239.253.93.133:6441
 #EXTINF:-1 group-title="🎭戏曲频道",梨园
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=bea94a5114fd27645ed07cab6a4512c2&wsTime=1793217801
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=aa3872d41a0f3793d97601d563c733a2&wsTime=1793221429
 #EXTINF:-1 group-title="🎭戏曲频道",梨园
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=202610290003027c34ed53fd144b0db29d1a9944197366&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20261029000302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20261029000302&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4dd2443ce7c9c096a6c34aff68a1b281
 #EXTINF:-1 group-title="🎭戏曲频道",梨园
@@ -14585,20 +14585,20 @@ http://113.98.11.46:3000/967100350
 http://113.98.11.46:3000/967099119
 #EXTINF:-1 group-title="🏆️体育赛事",🐬傲娇的超级赛亚人
 http://zzy789.xyz/douyu1.php?id=4373285
-#EXTINF:-1 group-title="🕒更新时间",20261029 00:53:45
-https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+#EXTINF:-1 group-title="🕒更新时间",20261029 01:54:44
+https://vd3.bdstatic.com/mda-nh1hpig3wrnz815f/576p/h264/1659443396031273144/mda-nh1hpig3wrnz815f.mp4?pd=19&vt=1#https://vd3.bdstatic.com/mda-qcni4kg1rj0jxr58/576p/h264/1711198229558593599/mda-qcni4kg1rj0jxr58.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="🕒更新时间",👨潇然
-https://vdse.bdstatic.com//c49675968e999046add4dc4660a2b1e5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-15T13%3A02%3A59Z%2F-1%2Fhost%2F7368e742ac87e1dada56b3c1f8c5c3c1d4721127e42ca729bf5b67a4a99a6c42&vid=9376331405235901090
+https://vdse.bdstatic.com/h265/bd6a1e8931d9ff4a3705ad8d3e5801d45c.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10728288596674539206&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=14749408976779077426&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=155&sle=1&split=387047
 #EXTINF:-1 group-title="🕒更新时间",💯推荐
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
 #EXTINF:-1 group-title="🕒更新时间",🤫低调
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+http://em.21dtv.com/songs/60037270.mkv
 #EXTINF:-1 group-title="🕒更新时间",🟢使用
-http://em.21dtv.com/songs/60054081.mkv
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
 #EXTINF:-1 group-title="🕒更新时间",⚠️禁止
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
 #EXTINF:-1 group-title="🕒更新时间",🚫贩卖
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 #EXTINF:-1 group-title="🕒更新时间",CGTN News
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="🕒更新时间",CGTN Documentary

@@ -2227,7 +2227,7 @@ CCTV-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://182.150.23.74:808/hls/33/index.m3u8
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d339dcc3bbbbff63a26a144ba51c914&wsTime=1793217801
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=755f24108a9695adf64bac438e8ed585&wsTime=1793221429
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 河南卫视,http://hlsztemgsplive.miguvideo.com:8080/wd-henanwssd-600/index.m3u8?msisdn=202610282202586b04176d388b480692385e153fbe4fa4&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20261028220258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=171.8.79.254&SecurityKey=20261028220258&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=29c0aaf8eee31f65eaee4e2bbf448211
 河南卫视,http://107.150.60.122/live/hawshd.m3u8
@@ -5266,7 +5266,7 @@ IPTV淘BABY,http://111.196.128.44:20000/rtp/239.3.1.238:8001
 
 📽️纪·录·片,#genre#
 文物宝库,http://60.4.28.229:8077/rtp/239.253.93.180:6437
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=5de28373363d92f797dfe809a647c28b&wsTime=1793217801
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=be80f03ed69b73ed91991ba1a837560f&wsTime=1793221429
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=cbe5d33322a043d6d82f4f3e31cf5358&wsTime=1780279130
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=abe4b004ced2ec85f33578228202def6&wsTime=1790741090
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=2287d7912a5b95ff9ed255084fe37a66&wsTime=1792292630
@@ -6995,7 +6995,7 @@ UFC格斗之夜拯救主场！宋亚东一拳KO打晕乌马尔副赛(解说席�
 
 🎭戏曲频道,#genre#
 梨园,http://60.4.28.229:8077/rtp/239.253.93.133:6441
-梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=bea94a5114fd27645ed07cab6a4512c2&wsTime=1793217801
+梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=aa3872d41a0f3793d97601d563c733a2&wsTime=1793221429
 梨园,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmc/50/20251225/index.m3u8?msisdn=202610290003027c34ed53fd144b0db29d1a9944197366&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20261029000302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=171.8.79.254&SecurityKey=20261029000302&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4dd2443ce7c9c096a6c34aff68a1b281
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 梨园,https://iptv.catvod.com/migu?id=961930369&token=7478279d6d8b11958635ac592e80eb26
@@ -7421,13 +7421,13 @@ NBA经典赛事NBA精彩重播：快船vs火箭邵化谦苏群18:00,http://113.9
 🐬傲娇的超级赛亚人,http://zzy789.xyz/douyu1.php?id=4373285
 
 🕒更新时间,#genre#
-20261029 00:53:45,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
-👨潇然,https://vdse.bdstatic.com//c49675968e999046add4dc4660a2b1e5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-15T13%3A02%3A59Z%2F-1%2Fhost%2F7368e742ac87e1dada56b3c1f8c5c3c1d4721127e42ca729bf5b67a4a99a6c42&vid=9376331405235901090
-💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
-🤫低调,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
-🟢使用,http://em.21dtv.com/songs/60054081.mkv
-⚠️禁止,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
-🚫贩卖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+20261029 01:54:44,https://vd3.bdstatic.com/mda-nh1hpig3wrnz815f/576p/h264/1659443396031273144/mda-nh1hpig3wrnz815f.mp4?pd=19&vt=1#https://vd3.bdstatic.com/mda-qcni4kg1rj0jxr58/576p/h264/1711198229558593599/mda-qcni4kg1rj0jxr58.mp4?pd=19&vt=1
+👨潇然,https://vdse.bdstatic.com/h265/bd6a1e8931d9ff4a3705ad8d3e5801d45c.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10728288596674539206&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=14749408976779077426&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=155&sle=1&split=387047
+💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+🤫低调,http://em.21dtv.com/songs/60037270.mkv
+🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+⚠️禁止,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+🚫贩卖,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8

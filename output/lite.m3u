@@ -4452,7 +4452,7 @@ http://182.150.23.74:808/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d339dcc3bbbbff63a26a144ba51c914&wsTime=1793217801
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=755f24108a9695adf64bac438e8ed585&wsTime=1793221429
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -8825,20 +8825,20 @@ http://8.138.7.223/tv/hainan.php?id=hktv22
 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 #EXTINF:-1 group-title="🏠地·方·台",西藏影视文化
 http://php.jdshipin.com:8880/xztv.php?id=ys
-#EXTINF:-1 group-title="🕒更新时间",20261029 00:53:45
-https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+#EXTINF:-1 group-title="🕒更新时间",20261029 01:54:44
+https://vd3.bdstatic.com/mda-nh1hpig3wrnz815f/576p/h264/1659443396031273144/mda-nh1hpig3wrnz815f.mp4?pd=19&vt=1#https://vd3.bdstatic.com/mda-qcni4kg1rj0jxr58/576p/h264/1711198229558593599/mda-qcni4kg1rj0jxr58.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="🕒更新时间",👨潇然
-https://vdse.bdstatic.com//c49675968e999046add4dc4660a2b1e5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-15T13%3A02%3A59Z%2F-1%2Fhost%2F7368e742ac87e1dada56b3c1f8c5c3c1d4721127e42ca729bf5b67a4a99a6c42&vid=9376331405235901090
+https://vdse.bdstatic.com/h265/bd6a1e8931d9ff4a3705ad8d3e5801d45c.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10728288596674539206&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=14749408976779077426&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=155&sle=1&split=387047
 #EXTINF:-1 group-title="🕒更新时间",💯推荐
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
 #EXTINF:-1 group-title="🕒更新时间",🤫低调
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+http://em.21dtv.com/songs/60037270.mkv
 #EXTINF:-1 group-title="🕒更新时间",🟢使用
-http://em.21dtv.com/songs/60054081.mkv
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
 #EXTINF:-1 group-title="🕒更新时间",⚠️禁止
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
 #EXTINF:-1 group-title="🕒更新时间",🚫贩卖
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
 #EXTINF:-1 group-title="🕒更新时间",CGTN News
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="🕒更新时间",CGTN Documentary
