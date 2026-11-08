@@ -1221,16 +1221,16 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=255db3e39f6cdceace79c03ea37354c5&wsTime=1794168201
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2e3450e5d52df4f7e8e1044d4b5c9ac6&wsTime=1794168201
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=1c07324aa54f56994b2d79ccd942df9c&wsTime=1794168201
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=286fcf28c5531e0a22a82201390d2bdb&wsTime=1794168201
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b1198efd2b94d5c1d595061fe426e68f&wsTime=1794168201
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=07cdcabe282375cbe31d576508ffd066&wsTime=1794168201
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=da9bd0e29b02d90a593b94ffca3b909d&wsTime=1794168201
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=7c0c97825fb1842061d6fffb9fff91d5&wsTime=1794168201
-国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=f7d066a6fd4e20c21160d8a63b63b77f&wsTime=1794168201
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=38bd693761a4caf0ff3230bde7e13bae&wsTime=1794168201
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=33b575948a94b64b351bec4afa178e55&wsTime=1794171824
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=606fd2f5f65bd88912ca3091814ce7c7&wsTime=1794171824
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9703bbf6d5b9969a137de5e5c13ee55b&wsTime=1794171824
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f02c77b1dbb55b8c8d0dc1b9d9009882&wsTime=1794171824
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=4196101138f6f21d559709aae8f78065&wsTime=1794171824
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=5f987bf4f4a459fc7e42d0a100402ae8&wsTime=1794171824
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=31613f7d7fcf2de7ae5562ed2553cd6e&wsTime=1794171824
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=f1d9f98c8da1ddbbf47a663bace17cf8&wsTime=1794171824
+国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=fd92d78ea79b4f6d39317ec9b51aea7c&wsTime=1794171824
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=1b61ccbd1c92060dc9b7fde0afc97041&wsTime=1794171824
 福建海峡卫视,http://42.94.209.203:7788/849119120
 中国农林卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=202611090002588c59466d7cd34d488b6bdefc470a0de7&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261109000258&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261109000258&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58e1d191e3909c42364eeddc2fa98263
 上视新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20261109000259e871cbe9f96a4003b510f4b16610101c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261109000259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20261109000259&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ac07659243abe5ecd7969a6d3102e916

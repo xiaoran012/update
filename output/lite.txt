@@ -2284,7 +2284,7 @@ CCTV-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://182.150.23.74:808/hls/33/index.m3u8
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c172e0f374acec7e141b2f547ede6b22&wsTime=1794168201
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=8e7f4ae2aada27e933205abad0ccd20d&wsTime=1794171824
 河南卫视,http://42.94.209.203:7788/790187291
 河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
@@ -4478,13 +4478,13 @@ CCTV-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 
 🕒更新时间,#genre#
-20261109 00:36:14,https://vd3.bdstatic.com/mda-nkpqf4rt7zt45u17/720p/h264/1669310324025468874/mda-nkpqf4rt7zt45u17.mp4?pd=19&vt=1
+20261109 01:37:04,https://vd3.bdstatic.com/mda-nkpqf4rt7zt45u17/720p/h264/1669310324025468874/mda-nkpqf4rt7zt45u17.mp4?pd=19&vt=1
 👨潇然,https://vdse.bdstatic.com//3bc628ea0ad380d9ba398f4d24a10ce7.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T10%3A00%3A52Z%2F-1%2Fhost%2F13891e85d2a86447ef97f48ff6f640921635cf98033e574d884b1e83822e505a&vid=15337766710822094129
-💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
-🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
-🟢使用,https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
-⚠️禁止,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
-🚫贩卖,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+💯推荐,http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+🤫低调,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+⚠️禁止,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+🚫贩卖,http://em.21dtv.com/songs/60054081.mkv
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
